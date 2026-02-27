@@ -1,6 +1,6 @@
 {
   "Ichan": {
-    "enabled": false,
+    "enabled": true,
     "time": "04:40",
     "timezone": "Asia/Jakarta",
     "jid": "62xxxxxxxxxxx@s.whatsapp.net",
