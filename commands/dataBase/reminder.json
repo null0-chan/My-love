@@ -3,7 +3,7 @@
     "enabled": false,
     "time": "04:40",
     "timezone": "Asia/Jakarta",
-    "jid": "6282295066953@s.whatsapp.net",
+    "jid": "62xxxxxxxxxxx@s.whatsapp.net",
     "schedule": {
       "senin": [
         "BP",
@@ -35,79 +35,6 @@
           "DD PD X"
       ],
       "sabtu": [],
-      "minggu": []
-    }
-  },
-  "Rizky": {
-    "enabled": false,
-    "time": "05:00",
-    "timezone": "Asia/Jakarta",
-    "jid": "6282171840671@s.whatsapp.net",
-    "schedule": {
-      "senin": [
-        "SBUD",
-        "PAI",
-        "IPS"
-      ],
-      "selasa": [
-        "IPA",
-        "B. Indonesia"
-      ],
-      "rabu": [
-        "PKN",
-        "Infokom"
-      ],
-      "kamis": [
-        "Matematika",
-        "PJOK"
-      ],
-      "jumat": [
-        "IPA",
-        "BMR",
-        "B. Inggris"
-      ],
-      "sabtu": [
-        "Matematika",
-        "BK",
-        "B. Indonesia"
-      ],
-      "minggu": []
-    }
-  },
-  "Inces": {
-    "enabled": false,
-    "time": "04:30",
-    "timezone": "Asia/Jakarta",
-    "jid": "6289638077774@s.whatsapp.net",
-    "schedule": {
-      "senin": [
-        "KDM",
-        "Praktik Bu Irma"
-      ],
-      "selasa": [
-        "Praktik Pak Lukman",
-        "PKK"
-      ],
-      "rabu": [
-        "B. Inggris",
-        "KDTK"
-      ],
-      "kamis": [
-        "Matematika",
-        "B. Indonesia",
-        "PAI"
-      ],
-      "jumat": [
-        "IPPD",
-        "Informatika",
-        "Sejarah"
-      ],
-      "sabtu": [
-        "Penjas",
-        "PPKN",
-        "B. Jepang",
-        "B. Indonesia"
-      ],
       "minggu": []
     }
   }
