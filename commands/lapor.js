@@ -3,7 +3,7 @@ Nama Fitur: Lapor via bot
 License: MIT
 Author: Ichan & Lyra
 */
-const ownerList = ["6282295066953"] //nomor owner (only number)
+const ownerList = ["62xxxxxxxxxx"] //nomor owner (only number)
 
 async function handleReport(conn, msg, userText, prefix) {
   const args = userText.slice(prefix.length + 5).trim()
